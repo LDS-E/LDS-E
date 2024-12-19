@@ -1,4 +1,4 @@
-## Hi! I'm Lucas, Dev Front-end since 2023 🖖🏻
+## Hi! I'm Lucas, Dev and Data scientist 🖖🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-eifler-2440a8121/)
 
