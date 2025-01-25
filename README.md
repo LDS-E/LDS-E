@@ -10,4 +10,5 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,tailwind,py,mongodb,postgres,azure,aws,terraform,tensorflow)](https://skillicons.dev)
 
 <hr>
+
 Passionate about technology and helping other people and businesses find their why
